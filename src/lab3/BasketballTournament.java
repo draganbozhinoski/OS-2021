@@ -29,7 +29,7 @@ public class BasketballTournament {
         if (term)
             System.out.println("Possible deadlock!");
         else
-            System.out.println("Tournament finished.");
+            System.out.println("Tournament finishedddd.");
     }
 }
 
